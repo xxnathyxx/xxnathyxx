@@ -76,8 +76,8 @@
 -->
 
 
-<p align="center">
-  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"> Trofeos <img src="https://skillicons.dev/icons?i=bots" alt="Trofeos"/></a>
+<p align="center"> Trofeos 
+  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"> <img src="https://skillicons.dev/icons?i=bots" alt="Trofeos"/></a>
 </p>
 
 
