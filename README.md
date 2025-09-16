@@ -36,7 +36,7 @@
 ## 📂 Portafolio Destacado
 
 🔹 [📊 **Análisis de Datos en Agricultura**](https://github.com/tu_usuario/proyecto-agricultura)  
-🔹 [🤖 **Detección de Spam con Machine Learning**](https://github.com/tu_usuario/proyecto-spam)  
+🔹 [🤖 **Detección de Spam con Machine Learning**](https://github.com/xxnathyxx/MachineLearning-Exercises/blob/main/Spam_Detection_with_Logistic%20Regression.ipynb)  
 🔹 [🔐 **Auditoría de Seguridad en Redes**](https://github.com/tu_usuario/proyecto-ciberseguridad)  
 🔹 [📈 **Predicción de Series Temporales**](https://github.com/tu_usuario/proyecto-series-temporales)  
 
