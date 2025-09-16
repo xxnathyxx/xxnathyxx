@@ -20,7 +20,7 @@
 ## 🚀 Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy,linux,docker,aws&perline=6">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy,linux,docker,aws&perline=6"/>
 </p>
 
 ---
