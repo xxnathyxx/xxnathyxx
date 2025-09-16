@@ -1,5 +1,6 @@
 <!-- Encabezado con banner -->
 <h1 align="center">👩‍💻 Hola, soy Natalia Beltran Choque (Nathy) </h1>
+<em><small>“La seguridad y el conocimiento son la clave del futuro digital”</small></em>
 <p align="center">
   <img src="https://cdn1.vogel.de/-jI0SH_ygHuVkbs7aFbNKuu2xfE=/fit-in/1200x630/filters:format(png):quality(90)/p7i.vogel.de/wcms/84/72/8472360bbcb5ce15f54b1e5b24ad6d5f/0118362478.jpeg" alt="Banner Ciencia de Datos y Ciberseguridad" width="100%">
 </p>
