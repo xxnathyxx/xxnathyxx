@@ -1,4 +1,68 @@
-## Hi there 👋
+<!-- Encabezado con banner -->
+<p align="center">
+  <img src="https://i.ibb.co/x6gdmkR/github-banner-data-security.png" alt="Banner Ciencia de Datos y Ciberseguridad" width="100%">
+</p>
+
+<h1 align="center">👩‍💻 Hola, soy Natalia Beltrán</h1>
+<h3 align="center">Ingeniera de Sistemas | Ciencia de Datos | Ciberseguridad</h3>
+
+---
+
+## 🌟 Sobre mí
+
+- 🎓 Ingeniera de Sistemas con especialización en **Ciencia de Datos y Ciberseguridad**  
+- 📊 Experiencia en **Machine Learning, Big Data y Analítica Predictiva**  
+- 🔐 Enfoque en **auditoría, análisis forense y seguridad de la información**  
+- 🚀 Apasionada por crear proyectos que unan **inteligencia de datos + seguridad digital**  
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy,linux,docker,aws&perline=6" />
+</p>
+
+---
+
+## 📂 Portafolio Destacado
+
+🔹 [📊 **Análisis de Datos en Agricultura**](https://github.com/tu_usuario/proyecto-agricultura)  
+🔹 [🤖 **Detección de Spam con Machine Learning**](https://github.com/tu_usuario/proyecto-spam)  
+🔹 [🔐 **Auditoría de Seguridad en Redes**](https://github.com/tu_usuario/proyecto-ciberseguridad)  
+🔹 [📈 **Predicción de Series Temporales**](https://github.com/tu_usuario/proyecto-series-temporales)  
+
+---
+
+## 🌐 Conéctate conmigo  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu_usuario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/tu_usuario"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://github.com/tu_usuario"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 Objetivo
+
+✨ “La seguridad y el conocimiento son la clave del futuro digital”  
+🌱 Actualmente aprendiendo más sobre **IA aplicada a la ciberseguridad y sistemas de RAG en Data Science**.  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-frame=true&margin-w=5&column=6" alt="trophies"/>
+</p>
 
 <!--
 **xxnathyxx/xxnathyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
