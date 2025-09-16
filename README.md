@@ -76,7 +76,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-frame=true&margin-w=5&column=6](https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section" alt="Trofeos"/>
+  <img src="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section" alt="Trofeos"/>
 </p>
 
 
