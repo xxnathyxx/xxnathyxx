@@ -62,7 +62,7 @@
 
 ## 🎯 Objetivo
 
-🤓 Obtener la Especialización de Ienteligencia Artificial.
+🤓 Obtener la Especialización de **Inteligencia Artificial**
 ✨ “La seguridad y el conocimiento son la clave del futuro digital”  
 🌱 Actualmente aprendiendo más sobre **IA aplicada a la ciberseguridad y sistemas de RAG en Data Science**.  
 
