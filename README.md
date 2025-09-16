@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/x6gdmkR/github-banner-data-security.png" alt="Banner Ciencia de Datos y Ciberseguridad" width="100%">
 </p>
 
-<h1 align="center">👩‍💻 Hola, soy Natalia Beltrán</h1>
+<h1 align="center">👩‍💻 Hola, soy Natalia Beltran Choque</h1>
 <h3 align="center">Ingeniera de Sistemas | Ciencia de Datos | Ciberseguridad</h3>
 
 ---
