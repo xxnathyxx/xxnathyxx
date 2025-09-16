@@ -27,7 +27,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy,linux,docker,aws"/>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy"/>
 </p>
 
 
