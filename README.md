@@ -77,7 +77,7 @@
 
 
 <p align="center">
-  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"><img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-frame=true&margin-w=5&column=6" alt="Trofeos"/></a>
+  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"><img src="https://www.flaticon.com/free-icon/logical-thinking_9192465" alt="Trofeos"/></a>
 </p>
 
 
