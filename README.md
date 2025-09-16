@@ -29,7 +29,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,kali,aws,mysql,bots,postgresql,git,github,tensorflow,sklearn,pandas,numpy"/>
+  <img src="https://skillicons.dev/icons?i=python,r,kali,aws,mysql,postgresql,bots,git,github,tensorflow,sklearn,pandas,numpy"/>
 </p>
 
 
