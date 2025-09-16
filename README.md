@@ -64,6 +64,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-frame=true&margin-w=5&column=6" alt="trophies"/>
 </p>
 
+
 <!--
 **xxnathyxx/xxnathyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
