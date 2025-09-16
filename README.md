@@ -76,7 +76,7 @@
 
 
 <p align="center">
-  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section" alt="Trofeos"> </a>
+  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section" alt="Trofeos"/> </a>
 </p>
 
 
