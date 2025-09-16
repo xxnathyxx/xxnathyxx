@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👩‍💻 Hola, soy Natalia Beltran Choque</h1>
-<h3 align="center">Ingeniera de Sistemas | Ciencia de Datos | Ciberseguridad</h3>
+<h3 align="center">🎓 Ingeniera de Sistemas | 📊 Ciencia de Datos | 🔐 Ciberseguridad</h3>
 
 ---
 
