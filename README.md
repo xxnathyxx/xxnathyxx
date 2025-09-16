@@ -29,7 +29,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,kali,aws,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy"/>
+  <img src="https://skillicons.dev/icons?i=python,r,kali,bots,aws,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy"/>
 </p>
 
 
@@ -77,7 +77,7 @@
 
 
 <p align="center"> Trofeos ---->
-  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"> <img src="https://skillicons.dev/icons?i=bots" alt="Trofeos"/></a>
+  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"> <img src="https://skillicons.dev/icons?i=emotion" alt="Trofeos"/></a>
 </p>
 
 
