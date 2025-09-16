@@ -26,10 +26,10 @@
 -->
 
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,git,github,tensorflow,sklearn,pandas,numpy,linux,docker,aws"/>
 </p>
----
+
 
 ## 📂 Portafolio Destacado
 
