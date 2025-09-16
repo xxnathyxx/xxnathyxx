@@ -63,7 +63,7 @@
 ## 🎯 Objetivo
 
 🤓 Obtener una especialización en **Inteligencia Artificial**  
-✨ “La seguridad y el conocimiento son la clave del futuro digital”  
+✨ “El único límite para la IA es la imaginación humana” - **Chris Duffey**
 🌱 Actualmente aprendiendo más sobre **IA aplicada a la ciberseguridad y sistemas de RAG en Data Science**.  
 
 ---
