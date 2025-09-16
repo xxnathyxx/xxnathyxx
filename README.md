@@ -77,7 +77,7 @@
 
 
 <p align="center">
-  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"><img src="https://www.flaticon.com/free-icon/logical-thinking_9192465" alt="Trofeos"/></a>
+  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"><img src="https://www.flaticon.com/free-icon/skill_3775431?term=skills&page=1&position=42&origin=search&related_id=3775431" alt="Trofeos"/></a>
 </p>
 
 
