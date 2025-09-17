@@ -37,7 +37,7 @@
 
 🔹 [📊 **Análisis de Datos en Agricultura**](https://github.com/xxnathyxx/DataScience-portfolio/blob/main/Data_Analysis_in_Agriculture.ipynb)  
 🔹 [🤖 **Detección de Spam con Machine Learning**](https://github.com/xxnathyxx/MachineLearning-portfolio/blob/main/Spam_Detection_with_Logistic%20Regression.ipynb)  
-🔹 [🔐 **Auditoría de Seguridad en Redes**](https://github.com/tu_usuario/proyecto-ciberseguridad)  
+🔹 [🔐 **Auditoría de Seguridad en Redes**](https://github.com/xxnathyxx/Cybersecurity-portfolio/blob/main/Network_security_audit.ipynb)  
 🔹 [📈 **Predicción de Series Temporales**](https://github.com/tu_usuario/proyecto-series-temporales)  
 
 ---
