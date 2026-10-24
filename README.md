@@ -1,7 +1,23 @@
 <!-- Encabezado con banner -->
-<h1 align="center"> Hola 👋, soy Natalia Beltran Choque (Nathy) 👩🏻‍💻 </h1>
-<h3 align="center"> 📊 Ciencia de Datos | 🔐 Ciberseguridad | 🤓🤖 Inteligencia Artificial</h3>
-<p align="center"><em><small>“La seguridad y el conocimiento son la clave del futuro digital”</small></em> </p>
+<h1 align="center"> 👋 ¡Hola! Soy Natalia Beltran Choque</h1>
+<h3 align="center"> 👩🏻‍💻 Ingeniera de Sistemas | 📊 Ciencia de Datos | 🔐 Ciberseguridad | 🤖 Inteligencia Artificial </h3>
+<p align="center">
+  <img src="images/banner-github.png" alt="Natalia Beltrán | Ciencia de Datos y Ciberseguridad" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/xxnathyxx">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/natalia-beltran-2539a69b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <em>“La seguridad y el conocimiento son la clave del futuro digital”.</em>
+</p>
+
 <p align="center">
   <img src="https://cdn1.vogel.de/-jI0SH_ygHuVkbs7aFbNKuu2xfE=/fit-in/1200x630/filters:format(png):quality(90)/p7i.vogel.de/wcms/84/72/8472360bbcb5ce15f54b1e5b24ad6d5f/0118362478.jpeg" alt="Banner Ciencia de Datos y Ciberseguridad" width="100%">
 </p>
