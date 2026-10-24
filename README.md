@@ -1,6 +1,6 @@
 <!-- Encabezado con banner -->
 <h1 align="center"> 👋 ¡Hola! Soy Natalia Beltran Choque</h1>
-<h3 align="center"> 👩🏻‍💻 Ingeniera de Sistemas | 📊 Ciencia de Datos | 🔐 Ciberseguridad | 🤖 Inteligencia Artificial </h3>
+<h3 align="center"> 👩🏻‍💻 Ing. de Sistemas | 📊 Ciencia de Datos | 🔐 Ciberseguridad | 🤖 Inteligencia Artificial | 🔬 Investigación </h3>
 <p align="center">
   <img src="images/banner-github.png" alt="Natalia Beltrán | Ciencia de Datos y Ciberseguridad" width="100%">
 </p>
@@ -27,11 +27,24 @@
 ---
 
 ## 🌟 Sobre mí
+Soy ingeniera de sistemas, especializada en ciencia de datos y ciberseguridad, con interés en desarrollar soluciones tecnológicas que integren inteligencia artificial, análisis de datos y seguridad de la información.
 
-- 🎓 Ingeniera de Sistemas con especialización en **Ciencia de Datos y Ciberseguridad**  
-- 📊 Experiencia en **Machine Learning, Big Data y Analítica Predictiva**  
-- 🔐 Enfoque en **auditoría, análisis forense y seguridad de la información**  
-- 🚀 Apasionada por crear proyectos que unan **inteligencia de datos + seguridad digital**  
+- 📊 Análisis de datos, visualización y analítica predictiva.
+- 🤖 Machine Learning, Deep Learning y aplicaciones de inteligencia artificial.
+- 🔐 Seguridad informática, análisis de vulnerabilidades y protección de datos.
+- 🔬 Investigación científica e innovación tecnológica.
+- 💻 Desarrollo de aplicaciones y soluciones basadas en IA.
+
+---
+
+🎯 Áreas de interés
+
+<p>
+  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Cybersecurity-173B65?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-7B61FF?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence">
+</p>
 
 ---
 
@@ -47,6 +60,31 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,kali,aws,mysql,postgresql,bots,git,github,tensorflow,sklearn,pandas,numpy"/>
 </p>
+
+
+🔬 Perfil de investigadora
+
+Mi interés en la investigación se centra en la aplicación de la inteligencia artificial, la ciencia de datos y la ciberseguridad para resolver problemas reales en sectores como salud, educación y tecnología.
+
+<p>
+  <a href="https://orcid.org/PEGA-AQUI-TU-ORCID">
+    <img src="https://img.shields.io/badge/ORCID-Perfil_de_investigadora-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="PEGA_AQUI_TU_URL_DE_GOOGLE_SCHOLAR">
+    <img src="https://img.shields.io/badge/Google_Scholar-Publicaciones-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://www.linkedin.com/in/natalia-beltran-2539a69b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+Líneas de investigación:
+- Inteligencia artificial y Machine Learning.
+- Analítica de datos y modelos predictivos.
+- Ciberseguridad y seguridad de la información.
+- Inteligencia artificial aplicada a la salud y la educación.
+- Sistemas inteligentes y transformación digital.
+
 
 
 ## 📂 Portafolio Destacado
@@ -65,6 +103,12 @@
   <a href="https://www.kaggle.com/xxnathyxx"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://github.com/xxnathyxx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<p>
+  <a href="https://github.com/xxnathyxx">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/natalia-beltran-2539a69b/">LinkedIn</a> ·
+  <a href="https://orcid.org/">ORCID</a> ·
+  <a href="https://scholar.google.com/">Google Scholar</a>
+</p>
 
 ---
 
@@ -75,7 +119,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<p align="center"> Trofeos ---->
+  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"> <img src="https://skillicons.dev/icons?i=emotion" alt="Trofeos"/></a>
+</p>
+
 
 ## 🎯 Objetivo
 
@@ -90,11 +137,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tu_usuario&theme=radical&no-frame=true&margin-w=5&column=6" alt="trofeos"/>
 </p>
 -->
-
-
-<p align="center"> Trofeos ---->
-  <a href="https://learn.microsoft.com/es-es/users/me/achievements?tab=tab-learning-paths#trophies-section"> <img src="https://skillicons.dev/icons?i=emotion" alt="Trofeos"/></a>
+<p align="center">
+  ⭐ Gracias por visitar mi perfil. ¡Explora mis proyectos y conectemos para compartir conocimiento e innovación!
 </p>
+
+
 
 
 <!--
